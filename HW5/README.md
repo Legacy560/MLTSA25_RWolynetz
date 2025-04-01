@@ -1,12 +1,12 @@
 ## Homework 5: Points of Change
 Group Members:
 
-Arnab Roy, 
+Arnab Roy: Led the project and found ruptures methods.
 
-Ryan Wolynetz, 
+Ryan Wolynetz: Managed plot descriptions and group communication.
 
-Sujan Shrestha, 
+Sujan Shrestha: Managed plotting and visualizations.
 
-Urvesh Bhagat
+Urvesh Bhagat: Wrote POC algorithms and contributed to method research.
 
 
